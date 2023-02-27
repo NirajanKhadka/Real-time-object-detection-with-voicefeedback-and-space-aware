@@ -6,3 +6,8 @@ crash.log
 
 # For built boxes
 *.box
+*.cfg
+*.weights
+ffmpeg-2022-05-08-git-f77ac5131c-full_build/bin/ffprobe.exe
+ffmpeg-2022-05-08-git-f77ac5131c-full_build/bin/ffmpeg.exe
+ffmpeg-2022-05-08-git-f77ac5131c-full_build/bin/ffplay.exe
